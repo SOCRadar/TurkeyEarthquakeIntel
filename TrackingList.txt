@@ -38,7 +38,6 @@ antepdepremi.com|Tracking|93.89.226.17
 deprembilgi.org|Tracking|145.14.151.126
 hataydepremi.com|Tracking|93.89.226.17
 depremformu.com|Tracking|104.21.50.237, 172.67.213.218
-adresdeprem.com|Tracking|104.19.240.93, 104.19.241.93
 depremdayanisma.com|Tracking|45.84.206.176
 xn--depremyardm-8zb.com|Tracking|160.153.138.204
 deprem.us|Tracking|77.245.149.40
