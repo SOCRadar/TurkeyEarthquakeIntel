@@ -10,3 +10,11 @@ TrackingList: Refers to the websites/domains under review.
 
 TrustedList: Refers to trusted websites/domains. 
 ```
+
+## PhishingList Details:
+
+> in-progress (Waiting approval from CERT)
+
+> local-takendown (Takendown Local CERT)
+
+> takendown (Completed)
