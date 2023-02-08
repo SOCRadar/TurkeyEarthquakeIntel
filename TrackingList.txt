@@ -89,3 +89,4 @@ http://afadestek.net|Tracking|-
 https://hataydeprem.com|Tracking|-
 https://deprem-bagislarim.net|Tracking|-
 https://afad-kizilay.yardim-yap.net|Tracking|-
+http://afaddestek.net/|Tracking|-
