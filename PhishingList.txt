@@ -31,3 +31,7 @@ bagis-yap.net|takendown|07.02.2023
 turkiyedeprem.com|takendown|07.02.2023
 yardim.b-cdn.net|local-takendown|07.02.2023
 afetacilyardim.net|local-takendown|07.02.2023
+donatecryptoforturkey.org|local-takendown|08.02.2023
+donateturkey.world|local-takendown|08.02.2023
+donateforturkey.com|local-takendown|08.02.2023
+deprembagis.com|local-takendown|08.02.2023
