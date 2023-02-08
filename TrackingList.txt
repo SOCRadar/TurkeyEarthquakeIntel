@@ -43,7 +43,6 @@ adresdeprem.com|Tracking|104.19.240.93, 104.19.241.93
 depremihtiyaci.com|Tracking|13.248.243.5, 76.223.105.230
 depremdayanisma.com|Tracking|45.84.206.176
 xn--depremyardm-8zb.com|Tracking|160.153.138.204
-deprem.io|Tracking|104.19.240.93, 104.19.241.93
 deprem.us|Tracking|77.245.149.40
 deprem-ihbar-haritasi.com|Tracking|35.204.150.5
 depremraporum.com|Tracking|76.223.105.230, 13.248.243.5
