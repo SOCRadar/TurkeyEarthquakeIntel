@@ -1,3 +1,84 @@
-https://sosyalkonutuygulamasi.net/
-https://deprem.io
-https://afad-deprem.tr-apk.com/
+DOMAIN|STATUS|IP ADDRESS
+sosyalkonutuygulamasi.net|Tracking|-
+afad-deprem.tr-apk.com|Tracking|-
+6subatdepremi.com|Tracking|104.247.162.74
+deprem112.com.tr|Tracking|-
+sosyalkonutuygulamasi.net|Tracking|188.114.97.12, 188.114.96.12
+deprem112.com|Tracking|62.108.55.208
+ankaradepremyardim.com|Tracking|77.245.159.45
+deprem.fun|Tracking|-
+depremzedeara.com|Tracking|199.36.158.100
+depremkayiplari.com|Tracking|159.253.38.71
+depremproje.com|Tracking|172.67.174.201, 104.21.67.127
+deprem.pages.dev|Tracking|172.66.47.57, 172.66.44.199
+depremdurumlistesi.com|Tracking|-
+depremihbar.org|Tracking|176.98.42.167
+depremzede.dolunaynetwork.com.tr|Tracking|5.105.5.200
+depremkonteynerevi.com|Tracking|94.73.150.116
+deprem-ihtiyac-listesi.pages.dev|Tracking|-
+depremdensonra.com|Tracking|142.132.218.117
+deprem.palantirfoundry.com|Tracking|34.253.35.6, 3.248.45.25, 52.31.79.198
+afetclinic.com|Tracking|109.70.148.174
+afetyardim.com|Tracking|76.223.105.230, 13.248.243.5
+deprempaketi.com|Tracking|93.89.226.17
+depremeyardim.com|Tracking|93.89.226.17
+afad-kizilay.yardimbagis.net|Tracking|-
+afad.bagis-yap.net|Tracking|2606:4700:3037::ac43:939d
+depremdenkorun.online|Tracking|172.67.200.237, 104.21.21.225
+afaderorgtr.dernekweb.com|Tracking|188.132.193.112
+afad-online-odeme-bagis.net|Tracking|104.21.7.138, 172.67.135.248
+depremiletisim.com|Tracking|-
+https://yardim.b-cdn.net/afad/yardim|Tracking|169.150.236.98
+yardimyerleri.com|Tracking|89.252.138.204
+yardimbagis.net|Tracking|104.21.37.131, 172.67.208.61
+acilyolyardimturkiye.com|Tracking|85.159.66.93
+acilyolyardimturkiye.xyz|Tracking|85.159.66.93
+toplumsalyardimlasma.org|Tracking|34.74.170.74, 18.213.222.111
+izmrdlrmerkeez.net|Tracking|20.243.112.70
+deprem.ensar.dev|Tracking|185.216.114.15
+depremkonum.com|Tracking|44.195.18.190
+test.depremdensonra.com|Tracking|142.132.218.117
+antideprem.com|Tracking|185.230.63.107, 185.230.63.171, 185.230.63.186
+deprem.icu|Tracking|216.239.38.21, 216.239.32.21, 216.239.34.21, 216.239.36.21
+deprem.owltech.com.tr|Tracking|104.21.18.137, 172.67.182.38
+deprem.dev|Tracking|104.21.58.60, 172.67.168.9
+marasdepremi.com|Tracking|93.89.226.17
+malatyadepremi.com|Tracking|93.89.226.17
+depremzede.net|Tracking|94.199.200.155
+hataydeprem.com|Tracking|91.151.93.93
+depremyardim.co|Tracking|76.76.21.21
+acildeprem.com|Tracking|-
+depremyardim.com|Tracking|172.67.216.130, 104.21.16.228
+antepdepremi.com|Tracking|93.89.226.17
+deprembilgi.org|Tracking|145.14.151.126
+hataydepremi.com|Tracking|93.89.226.17
+afadzede.com|Tracking|198.38.83.167
+deprem-bagislarim.net|Tracking|172.67.167.80, 104.21.91.55
+depremformu.com|Tracking|104.21.50.237, 172.67.213.218
+adresdeprem.com|Tracking|104.19.240.93, 104.19.241.93
+depremvergileri.net|Tracking|188.114.96.2, 188.114.97.2
+depremdestek.com|Tracking|-
+destekdeprem.com|Tracking|45.84.188.71
+depremzedelere-yardim.com|Tracking|-
+depremihtiyaci.com|Tracking|13.248.243.5, 76.223.105.230
+depremdayanisma.com|Tracking|45.84.206.176
+xn--depremyardm-8zb.com|Tracking|160.153.138.204
+deprem.io|Tracking|104.19.240.93, 104.19.241.93
+deprem.us|Tracking|77.245.149.40
+deprem-ihbar-haritasi.com|Tracking|35.204.150.5
+depremraporum.com|Tracking|76.223.105.230, 13.248.243.5
+depremenkaz.xyz|Tracking|145.14.151.210
+depremdestek.org|Tracking|104.21.22.186, 172.67.206.158
+writelypro.afadigital.host|Tracking|67.227.208.52
+www.turkeyearthquake.com|Tracking|-
+x-rnfvcvu.org|Tracking|-
+afadacilyardim.com|Tracking|5.8.69.248
+afad-yardimerkezi.net|Tracking|20.93.6.26
+afaddestek.net|Tracking|149.3.170.224
+afadyardimyap.net|Tracking|20.94.224.33
+afadbagislari.net|Tracking|20.94.224.33
+candseafadet.gq|Tracking|104.21.48.237, 172.67.188.92
+afadestek.net|Tracking|172.67.167.56, 104.21.11.200
+afaddeprembagis.net|Tracking|172.67.137.131, 104.21.78.208
+afad-kahramanmaras.net|Tracking|172.67.156.247, 104.21.89.77
+afadhemenyardim.com|Tracking|104.21.36.34, 172.67.184.89
