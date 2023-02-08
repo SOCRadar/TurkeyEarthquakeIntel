@@ -1,2 +1,5 @@
-deprem-bagislarim.net,takendown,06.02.2023
-hataydeprem.com,takendown,07.02.2023
+deprem-bagislarim.net,takendown,08.02.2023
+hataydeprem.com,takendown,08.02.2023
+afadestek.net,takendown,,08.02.2023
+afadhemenyardim.com,takendown,07.02.2023
+afad-kizilay.yardim-yap.net,takendown,08.02.2023
