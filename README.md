@@ -1,6 +1,8 @@
 # TurkeyEarthquakeIntel
 Includes voluntary work on all abuses related to earthquakes.
 
+For abuse or suspicious reports, you can contact us at takedown@socradar.io.
+
 Information:
 ----
 ```
