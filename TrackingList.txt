@@ -1,4 +1,4 @@
-DOMAIN|STATUS|IP ADDRESS
+DOMAIN/WEBSITE|STATUS|IP ADDRESS
 sosyalkonutuygulamasi.net|Tracking|-
 afad-deprem.tr-apk.com|Tracking|-
 6subatdepremi.com|Tracking|104.247.162.74
@@ -82,3 +82,10 @@ afadestek.net|Tracking|172.67.167.56, 104.21.11.200
 afaddeprembagis.net|Tracking|172.67.137.131, 104.21.78.208
 afad-kahramanmaras.net|Tracking|172.67.156.247, 104.21.89.77
 afadhemenyardim.com|Tracking|104.21.36.34, 172.67.184.89
+http://afad-kizilay.yardim-yap.net|Tracking|-
+http://hataydeprem.com|Tracking|-
+http://deprem-bagislarim.net|Tracking|-
+http://afadestek.net|Tracking|-
+https://hataydeprem.com|Tracking|-
+https://deprem-bagislarim.net|Tracking|-
+https://afad-kizilay.yardim-yap.net|Tracking|-
