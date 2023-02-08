@@ -4,6 +4,9 @@ Includes voluntary work on all abuses related to earthquakes.
 Information:
 ----
 ```
+
+PhishingDomainList: It contains only the domain list to block.
+
 PhishingList: Refers to phishing attacks or abused websites/domains.
 
 TrackingList: Refers to the websites/domains under review. 
