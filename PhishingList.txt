@@ -47,3 +47,13 @@ ahbap.digital|local-takendown|09.02.2023
 helphatay.com|local-takendown|09.02.2023
 afetmarket.com|local-takendown|09.02.2023
 depremacilyardim.com|local-takendown|09.02.2023	
+afetacilyardim.com|in-progress|09.02.2023
+afad.omagarwal.comlocal-takendown|09.02.2023
+afetbagis.com|local-takendown|09.02.2023
+afadvdestek.net|local-takendown|09.02.2023
+helpturkeyandsyria.life|local-takendown|09.02.2023
+helpturkey.info|local-takendown|09.02.2023
+depremzede.net|local-takendown|09.02.2023
+helptk.bar|local-takendown|09.02.2023
+bagislama.net|local-takendown|09.02.2023
+afadtr.bagislama.net|local-takendown|09.02.2023

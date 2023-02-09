@@ -100,3 +100,8 @@ deprempaneli.com|Tracking|-
 turkeyearthquakefund.com|Tracking|-
 deprem.wesdteam.org|Tracking|-
 trt-deprem.com|Tracking|-
+deprem-test.ulassekerci.com|Tracking|-
+yardimyeri.com|Tracking|-
+afadbagis.org|Tracking|-
+depremacil.net|Tracking|-
+depremduyuru.com|Tracking|-
