@@ -22,7 +22,6 @@ depremiletisim.com|Tracking|-
 https://yardim.b-cdn.net/afad/yardim|Tracking|169.150.236.98
 yardimyerleri.com|Tracking|89.252.138.204
 acilyolyardimturkiye.com|Tracking|85.159.66.93
-acilyolyardimturkiye.xyz|Tracking|85.159.66.93
 depremkonum.com|Tracking|44.195.18.190
 test.depremdensonra.com|Tracking|142.132.218.117
 antideprem.com|Tracking|185.230.63.107, 185.230.63.171, 185.230.63.186
@@ -99,3 +98,5 @@ depremafetacilyardim.online|Tracking|-
 afadtr.bagislama.net|Tracking|-
 deprempaneli.com|Tracking|-
 turkeyearthquakefund.com|Tracking|-
+deprem.wesdteam.org|Tracking|-
+trt-deprem.com|Tracking|-
