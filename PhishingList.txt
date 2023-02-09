@@ -7,7 +7,6 @@ yardim-yap.net|takendown|08.02.2023
 depremihtiyaci.com|in-progress|08.02.2023
 x-rnfvcvu.org|local-takendown|07.02.2023
 afadzede.com|local-takendown|07.02.2023
-http://akut.303.si|in-progress|08.02.2023
 depremzedelere-yardim.com|takendown|07.02.2023
 afad-kizilay.yardimbagis.net|takendown|06.02.2023
 depremdenkorun.online|takendown|08.02.2023
@@ -38,3 +37,13 @@ deprembagis.com|local-takendown|08.02.2023
 turkiyeyardim.net|local-takendown|08.02.2023
 afadbagisyap.com|local-takendown|08.02.2023
 depremdeyanyana.com|takendown|09.02.2023
+afad-bagis.epizy.com|takendown|09.02.2023
+akut.303.si|local-takendown|09.02.2023
+kizllay.com|local-takendown|09.02.2023
+deprem.wesdteam.org|takendown|09.02.2023
+depremzedeyardimlarixdxme5.com|local-takendown|09.02.2023
+acilyolyardimturkiye.xyz|local-takendown|09.02.2023
+ahbap.digital|local-takendown|09.02.2023
+helphatay.com|local-takendown|09.02.2023
+afetmarket.com|local-takendown|09.02.2023
+depremacilyardim.com|local-takendown|09.02.2023	
