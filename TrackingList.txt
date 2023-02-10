@@ -98,7 +98,6 @@ depremafetacilyardim.online|Tracking|-
 afadtr.bagislama.net|Tracking|-
 deprempaneli.com|Tracking|-
 turkeyearthquakefund.com|Tracking|-
-deprem.wesdteam.org|Tracking|-
 trt-deprem.com|Tracking|-
 deprem-test.ulassekerci.com|Tracking|-
 yardimyeri.com|Tracking|-
@@ -117,7 +116,6 @@ depremfirmayardim.org|Tracking|-
 depremfirmayardim.com|Tracking|-
 deprem-info.online|Tracking|-
 depremseferberlik.info|Tracking|-
-deprem-ihtiyac.pages.dev|Tracking|-
 turkeyearthquakefund.org|Tracking|-
 turkeyearthquake.org|Tracking|-
 deprem-ihtiyac-2.pages.dev|Tracking|-
@@ -125,5 +123,7 @@ depremveri.com|Tracking|-
 depremkapsulu.com|Tracking|-
 turkey-earthquake.lonelyorphans.org|Tracking|-
 deprem.camp|Tracking|-
+turkey-earthquake.co|Tracking|-
+deprem-ihtiyac.pages.dev|Tracking|-
 kiziiay.net|Tracking|-
 kizilayy.blogspot.com
