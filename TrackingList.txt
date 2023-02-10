@@ -126,4 +126,11 @@ deprem.camp|Tracking|-
 turkey-earthquake.co|Tracking|-
 deprem-ihtiyac.pages.dev|Tracking|-
 kiziiay.net|Tracking|-
-kizilayy.blogspot.com
+kizilayy.blogspot.com|Tracking|-
+trdeprem.unikalservice.com|Tracking|-
+deprem.help|Tracking|-
+trdeprem.org|Tracking|-
+depremyardim.net|Tracking|-
+trdeprem6223.org|Tracking|-
+resmiyardim.com|Tracking|-
+deprem.mbbapps.online|Tracking|-
