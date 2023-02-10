@@ -112,6 +112,7 @@ depremm.com|Tracking|-
 liste.ankaradepremyardim.com|Tracking|-
 depremde-ses-var.senbil.net|Tracking|-
 depremyardimhatti.com|Tracking|-
+6subat.org|Tracking|-
 depremfirmayardim.org|Tracking|-
 depremfirmayardim.com|Tracking|-
 deprem-info.online|Tracking|-
@@ -125,3 +126,4 @@ depremkapsulu.com|Tracking|-
 turkey-earthquake.lonelyorphans.org|Tracking|-
 deprem.camp|Tracking|-
 kiziiay.net|Tracking|-
+kizilayy.blogspot.com
