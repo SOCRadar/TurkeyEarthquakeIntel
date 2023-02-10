@@ -39,7 +39,7 @@ afadbagisyap.com|local-takendown|08.02.2023
 depremdeyanyana.com|takendown|09.02.2023
 afad-bagis.epizy.com|takendown|09.02.2023
 akut.303.si|local-takendown|09.02.2023
-kizllay.com|local-takendown|09.02.2023
+kizllay.com|takendown|09.02.2023
 deprem.wesdteam.org|takendown|09.02.2023
 depremzedeyardimlarixdxme5.com|local-takendown|09.02.2023
 acilyolyardimturkiye.xyz|local-takendown|09.02.2023
@@ -66,3 +66,7 @@ pay.depremdonation.com|local-takendown|10.02.2023
 afad.online|takendown|10.02.2023
 engelsizbagis.cf|local-takendown|10.02.2023
 bagismerkezi.net|local-takendown|10.02.2023
+afad.get3dsecure.net|local-takendown|10.02.2023
+enteldeprem.blogspot.com|local-takendown|10.02.2023
+kiziiay.net|local-takendown|10.02.2023
+afetisbirligi.com|local-takendown|10.02.2023
