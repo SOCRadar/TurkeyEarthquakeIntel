@@ -58,3 +58,11 @@ helptk.bar|local-takendown|09.02.2023
 bagislama.net|local-takendown|09.02.2023
 afadtr.bagislama.net|local-takendown|09.02.2023
 deprem-yaylakonak.ch|local-takendown|10.02.2023
+afadavis.com|local-takendown|10.02.2023
+bagisyap.cf|local-takendown|10.02.2023
+depremdonation.com|local-takendown|10.02.2023
+turkeydonate.org|local-takendown|10.02.2023
+pay.depremdonation.com|local-takendown|10.02.2023
+afad.online|takendown|10.02.2023
+engelsizbagis.cf|local-takendown|10.02.2023
+bagismerkezi.net|local-takendown|10.02.2023
