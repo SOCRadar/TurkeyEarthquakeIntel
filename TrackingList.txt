@@ -44,13 +44,13 @@ depremraporum.com|Tracking|76.223.105.230, 13.248.243.5
 depremenkaz.xyz|Tracking|145.14.151.210
 depremdestek.org|Tracking|104.21.22.186, 172.67.206.158
 writelypro.afadigital.host|Tracking|67.227.208.52
-www.turkeyearthquake.com|Tracking|-
-depremkabini.net|Tracking|-
-depremyardimsiteleri.com|Tracking|-
+www.turkeyearthquake.com|Tracking|199.59.243.222
+depremkabini.net|Tracking|94.199.200.241
+depremyardimsiteleri.com|Tracking|94.199.206.51
 depremlojistik.com|Tracking|-
 deprem.live|Tracking|-
 bagisahbap.org|Tracking|-
-afetlist.xyz|Tracking|-
+afetlist.xyz|Tracking|85.159.66.93
 afetbildirim.xyz|Tracking|-
 afetkayip.com|Tracking|-
 kayserideprem.org|Tracking|-
