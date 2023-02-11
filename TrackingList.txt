@@ -29,7 +29,6 @@ deprem.owltech.com.tr|Tracking|104.21.18.137, 172.67.182.38
 deprem.dev|Tracking|104.21.58.60, 172.67.168.9
 marasdepremi.com|Tracking|93.89.226.17
 malatyadepremi.com|Tracking|93.89.226.17
-depremzede.net|Tracking|94.199.200.155
 depremyardim.co|Tracking|76.76.21.21
 acildeprem.com|Tracking|-
 depremyardim.com|Tracking|172.67.216.130, 104.21.16.228
@@ -95,7 +94,6 @@ depremyardim.online|Tracking|-
 deprm-zedebagis.org|Tracking|-
 depremulasimhiltontravel.com|Tracking|-
 depremafetacilyardim.online|Tracking|-
-afadtr.bagislama.net|Tracking|-
 deprempaneli.com|Tracking|-
 turkeyearthquakefund.com|Tracking|-
 trt-deprem.com|Tracking|-
@@ -105,7 +103,6 @@ afadbagis.org|Tracking|-
 depremacil.net|Tracking|-
 depremduyuru.com|Tracking|-
 deprem2023.info|Tracking|-
-depremdonation.com|Tracking|-
 helpturkeyearthquake.com|Tracking|-
 depremm.com|Tracking|-
 liste.ankaradepremyardim.com|Tracking|-
@@ -125,7 +122,6 @@ turkey-earthquake.lonelyorphans.org|Tracking|-
 deprem.camp|Tracking|-
 turkey-earthquake.co|Tracking|-
 deprem-ihtiyac.pages.dev|Tracking|-
-kiziiay.net|Tracking|-
 kizilayy.blogspot.com|Tracking|-
 trdeprem.unikalservice.com|Tracking|-
 deprem.help|Tracking|-
@@ -136,7 +132,6 @@ resmiyardim.com|Tracking|-
 deprem.mbbapps.online|Tracking|-
 deprem.pro|Tracking|-
 deprem.wersdown.dev|Tracking|-
-deprem.deprem-ihtiyac.org|Tracking|-
 deprem.ardakarakas.com|Tracking|-
 deprem.deprem-ihtiyac.org|Tracking|-
 sondepremler.org|Tracking|-
@@ -151,7 +146,6 @@ deprem.kamilkaraman.com.tr|Tracking|-
 depremgoruntuleri.vato.com.tr|Tracking|-
 depremgoruntuleri.site|Tracking|-
 deprem.ilk72.com|Tracking|-
-afadbagisimm.net|Tracking|-
 depremsiz.com|Tracking|-
 kzilay.blogspot.com|Tracking|-
 depremanit.xyz|Tracking|-
@@ -166,6 +160,8 @@ depremhukuku.com|Tracking|-
 depremguvenlikodasi.com|Tracking|-
 depremcantasi.net|Tracking|-
 depremkafasiodasi.com|Tracking|-
-depremnews.com|Tracking|-
 deprem.website|Tracking|-
 eprem.website|Tracking|-
+depremdanismani.com|Tracking|-
+afadzede.xyz|Tracking|-
+afadta.tk|Tracking|-
