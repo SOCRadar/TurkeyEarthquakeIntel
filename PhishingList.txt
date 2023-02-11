@@ -70,3 +70,7 @@ afad.get3dsecure.net|local-takendown|10.02.2023
 enteldeprem.blogspot.com|local-takendown|10.02.2023
 kiziiay.net|local-takendown|10.02.2023
 afetisbirligi.com|local-takendown|10.02.2023
+depremokulbursu.com|in-progress|11.02.2023
+konyadepremyardim.com|in-progress|11.02.2023
+ulusyardimvakfi.com|local-takendown|11.02.2023
+yardimhatti.net|local-takendown|11.02.2023
