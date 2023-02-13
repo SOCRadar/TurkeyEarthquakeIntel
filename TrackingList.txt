@@ -229,3 +229,7 @@ depremdayanismasi.org|Tracking|-
 6subatdepremi.pages.dev|Tracking|-
 depremkafesi.com|Tracking|-
 depremforum.com|Tracking|-
+depremyardimsistemi.com|Tracking|-
+depremhasar.com|Tracking|-
+depremyardimsistemi.com.vipyonet.com|Tracking|-
+depremzede.help|Tracking|-
