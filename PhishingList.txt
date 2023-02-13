@@ -88,3 +88,8 @@ turkeyearthquakeaid.info|in-progress|12.02.2023
 deprem23.com|in-progress|12.02.2023
 turkeyearthquakeaid.info|in-progress|13.02.2023
 ahbap.link|local-takendown|13.02.2023
+deprem2.wesdteam.org|local-takendown|13.02.2023
+deprem3.wesdteam.org |local-takendown|13.02.2023
+ahbad.org|local-takendown|13.02.2023
+ahabp.org|local-takendown|13.02.2023
+ahbsp.org|local-takendown|13.02.2023
