@@ -118,3 +118,4 @@ afadbagis.ph
 afad.xn--fiqs8s
 earthquakehelpers.host
 helpearthquake.com
+depremzede.van.com.tr
