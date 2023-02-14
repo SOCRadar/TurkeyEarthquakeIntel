@@ -114,3 +114,4 @@ afadbagis.ph|local-takendown|13.02.2023
 afad.xn--fiqs8s|local-takendown|13.02.2023
 earthquakehelpers.host|local-takendown|13.02.2023
 helpearthquake.com|local-takendown|13.02.2023
+depremzede.van.com.tr|in-progress|14.02.2023
