@@ -137,6 +137,12 @@ afad.pl|local-takendown|14.02.2023
 afad.xn--fiqz9s|local-takendown|14.02.2023
 afadbitcoin.xn--fiqz9s|local-takendown|14.02.2023
 afadbagis.org|local-takendown|14.02.2023
+bagisdeprembagis.xn--node|local-takendown|15.02.2023
+destekdeprem.ph|local-takendown|15.02.2023
+destekdeprem.vg|local-takendown|15.02.2023
+turkeyrelieftoken.help|local-takendown|15.02.2023
+help-turkey.org|local-takendown|15.02.2023
+redcrossturkey.com|local-takendown|15.02.2023
 destek-kampanyasi.net|local-takendown|15.02.2023
 devlet-destek.net|local-takendown|15.02.2023
 yardim-destekleri.net|local-takendown|15.02.2023
