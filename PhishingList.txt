@@ -146,3 +146,5 @@ destek-kampanyasi.net|local-takendown|15.02.2023
 devlet-destek.net|local-takendown|15.02.2023
 yardim-destekleri.net|local-takendown|15.02.2023
 deprem.42web.io|local-takendown|15.02.2023
+earthquaketurkey.world|local-takendown|15.02.2023
+babalayardim.com|local-takendown|15.02.2023
