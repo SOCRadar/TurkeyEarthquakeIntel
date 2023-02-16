@@ -109,6 +109,7 @@ afad-bagis.ph|local-takendown|13.02.2023
 afad-bagis.xn--fiqz9s|takendown|13.02.2023
 afadbagis.ph|local-takendown|13.02.2023
 afad.xn--fiqs8s|takendown|13.02.2023
+afadftk.tk|local-takendown|13.02.2023
 earthquakehelpers.host|local-takendown|13.02.2023
 helpearthquake.com|takendown|13.02.2023
 depremzede.van.com.tr|in-progress|14.02.2023
@@ -151,3 +152,5 @@ babalayardim.com|local-takendown|15.02.2023
 kizilay.fr|in-progress|16.02.2023
 afadyardim.net|local-takendown|16.02.2023
 destekdeprem.xn--node|local-takendown|16.02.2023
+turkeystrong.org|local-takendown|16.02.2023
+ahbap.pcfinacial.top|local-takendown|16.02.2023
