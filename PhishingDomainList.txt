@@ -150,4 +150,5 @@ deprem.42web.io
 earthquaketurkey.world
 babalayardim.com
 kizilay.fr
-babalayardim.com
+afadyardim.net
+destekdeprem.xn--node
