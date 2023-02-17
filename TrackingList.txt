@@ -320,7 +320,6 @@ depremcabin.online|Tracking|-
 depremcanta.com|Tracking|-
 xn--depremyata-jpb0t.com|Tracking|-
 depremoldurur.net|Tracking|-
-afadyardim.net|Tracking|-
 depremzedekuafor.com|Tracking|-
 depremyardimlari.org|Tracking|-
 depremrisktesti.online|Tracking|-
@@ -372,3 +371,5 @@ depremplani.com|Tracking|-
 depremrisk.targetyazilim.com|Tracking|-
 depprem.co.uk|Tracking|-
 marasdepremi.org|Tracking|-
+112deprem.com|Tracking|-
+afadmarket.com|Tracking|-
