@@ -28,7 +28,7 @@ turkeyreliefdao.notion.site|takendown|06.02.2023
 afed-co.com|takendown|07.02.2023
 bagis-yap.net|takendown|07.02.2023
 turkiyedeprem.com|takendown|07.02.2023
-yardim.b-cdn.net|local-takendown|07.02.2023
+yardim.b-cdn.net|takendown|07.02.2023
 afetacilyardim.net|local-takendown|07.02.2023
 donatecryptoforturkey.org|takendown|08.02.2023
 donateturkey.world|takendown|08.02.2023
@@ -51,7 +51,7 @@ afetacilyardim.com|takendown|09.02.2023
 afad.omagarwal.com|takendown|09.02.2023
 afetbagis.com|local-takendown|09.02.2023
 afadvdestek.net|local-takendown|09.02.2023
-helpturkeyandsyria.life|local-takendown|09.02.2023
+helpturkeyandsyria.life|takendown|09.02.2023
 helpturkey.info|local-takendown|09.02.2023
 depremzede.net|takendown|09.02.2023
 helptk.bar|local-takendown|09.02.2023
@@ -112,7 +112,6 @@ afad.xn--fiqs8s|takendown|13.02.2023
 afadftk.tk|local-takendown|13.02.2023
 earthquakehelpers.host|local-takendown|13.02.2023
 helpearthquake.com|takendown|13.02.2023
-depremzede.van.com.tr|in-progress|14.02.2023
 afadbagis.xn--fiqz9s|takendown|14.02.2023
 afadbagis.xn--fiqs8s|takendown|14.02.2023
 afetyardim.epizy.com|local-takendown|14.02.2023
@@ -148,12 +147,12 @@ devlet-destek.net|local-takendown|15.02.2023
 yardim-destekleri.net|local-takendown|15.02.2023
 deprem.42web.io|takendown|15.02.2023
 earthquaketurkey.world|takendown|15.02.2023
-babalayardim.com|local-takendown|15.02.2023
+babalayardim.com|takendown|15.02.2023
 kizilay.fr|in-progress|16.02.2023
 afadyardim.net|local-takendown|16.02.2023
 destekdeprem.xn--node|local-takendown|16.02.2023
 turkeystrong.org|local-takendown|16.02.2023
-ahbap.pcfinacial.top|local-takendown|16.02.2023
+ahbap.pcfinacial.top|takendown|16.02.2023
 dxxpreembagis.net|local-takendown|16.02.2023
 xn--destek-yardmlarmz-mvceb.ne|local-takendown|16.02.2023
 xn--devlet-yardmm-ebcb.net|local-takendown|16.02.2023
