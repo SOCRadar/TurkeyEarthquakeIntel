@@ -451,3 +451,5 @@ depremanaliz.ankageo.com|Tracking|-
 xafad.com|Tracking|-
 depremjurnal.com|Tracking|-
 depremolsa.cf|Tracking|-
+afadcan.org|Tracking|-
+deprem.seydidemir.com|Tracking|-
