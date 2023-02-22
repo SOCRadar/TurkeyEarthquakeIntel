@@ -151,7 +151,7 @@ babalayardim.com|takendown|15.02.2023
 kizilay.fr|in-progress|16.02.2023
 afadyardim.net|local-takendown|16.02.2023
 destekdeprem.xn--node|local-takendown|16.02.2023
-turkeystrong.org|local-takendown|16.02.2023
+turkeystrong.org|takendown|16.02.2023
 ahbap.pcfinacial.top|takendown|16.02.2023
 dxxpreembagis.net|local-takendown|16.02.2023
 xn--destek-yardmlarmz-mvceb.ne|local-takendown|16.02.2023
