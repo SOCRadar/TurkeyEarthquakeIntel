@@ -151,7 +151,7 @@ babalayardim.com|takendown|15.02.2023
 kizilay.fr|in-progress|16.02.2023
 afadyardim.net|local-takendown|16.02.2023
 destekdeprem.xn--node|local-takendown|16.02.2023
-turkeystrong.org|local-takendown|16.02.2023
+turkeystrong.org|takendown|16.02.2023
 ahbap.pcfinacial.top|takendown|16.02.2023
 dxxpreembagis.net|local-takendown|16.02.2023
 xn--destek-yardmlarmz-mvceb.ne|local-takendown|16.02.2023
@@ -161,6 +161,14 @@ merkezyardim.tk|local-takendown|17.02.2023
 dashboard-deprem.cengaver.web.tr|in-progress|17.02.2023
 elbistanyardim.net|local-takendown|17.02.2023
 depremyardimformu.com|local-takendown|19.02.2023
+ahbapmarket.xyz|local-takendown|20.02.2023
+abhbap.org|local-takendown|20.02.2023
+ahbapkasa.org|local-takendown|20.02.2023
+ahbap.news|local-takendown|20.02.2023
+ahbapgroup.org|local-takendown|20.02.2023
+ahbapkasa.org|local-takendown|20.02.2023
+ahbapbrolardernegi.net|local-takendown|20.02.2023
+ahbaplaradernegi.net|local-takendown|20.02.2023
 ahbapkasa.org|local-takendown|19.02.2023
 abhap.org|local-takendown|19.02.2023
 abhbap.org|local-takendown|19.02.2023
