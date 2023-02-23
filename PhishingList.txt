@@ -181,3 +181,9 @@ ahbapgroup.org|local-takendown|19.02.2023
 ahbaq.org|local-takendown|19.02.2023
 ahbapbrolardernegi.net|local-takendown|19.02.2023
 ahbaplaradernegi.net|local-takendown|19.02.2023
+kizilaydestek.vg|local-takendown|23.02.2023
+depremdestek.xn--fiqz9s|local-takendown|23.02.2023
+depremdestek.xn--node|local-takendown|23.02.2023
+depremdestek.ws|local-takendown|23.02.2023
+depremdestek.ph|local-takendown|23.02.2023
+depremdestek.xn--fiqs8s|local-takendown|23.02.2023
