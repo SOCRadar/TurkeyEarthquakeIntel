@@ -491,6 +491,10 @@ depremanaliz.ankageo.com|Tracking|-
 xafad.com|Tracking|-
 depremjurnal.com|Tracking|-
 depremolsa.cf|Tracking|-
+depremyardim.kilavuzun.com|Tracking|-
+depremmuzesi.com|Tracking|-
+depremzede.destekyonetim.com|Tracking|-
+deprembilgi.ml|Tracking|-
 triadakizilay.com|Tracking|-
 depremkapisi.com|Tracking|-
 depremekarsikapi.com|Tracking|-
