@@ -557,3 +557,8 @@ deprem-kapi.online|Tracking|-
 depremicinkabin.com|Tracking|-
 depremkolyesi.com|Tracking|-
 depremyataksistemleri.com|Tracking|-
+depremehazirlan.com|Tracking|-
+deprem.heyet.com.tr|Tracking|-
+depremdeistihdam.com|Tracking|-
+kanzlei-kizilay.de|Tracking|-
+depremizolatoru.co|Tracking|-
