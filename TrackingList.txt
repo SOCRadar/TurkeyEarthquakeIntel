@@ -554,6 +554,9 @@ depremdekapi.site|Tracking|-
 depremicinkapi.online|Tracking|-		
 depremekarsikapi.site|Tracking|-		
 deprem-kapi.online|Tracking|-
+depremicinkabin.com|Tracking|-
+depremkolyesi.com|Tracking|-
+depremyataksistemleri.com|Tracking|-
 depremehazirlan.com|Tracking|-
 deprem.heyet.com.tr|Tracking|-
 depremdeistihdam.com|Tracking|-
