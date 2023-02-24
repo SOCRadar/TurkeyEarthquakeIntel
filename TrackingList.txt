@@ -562,3 +562,4 @@ deprem.heyet.com.tr|Tracking|-
 depremdeistihdam.com|Tracking|-
 kanzlei-kizilay.de|Tracking|-
 depremizolatoru.co|Tracking|-
+depremler.xyz|Tracking|-
