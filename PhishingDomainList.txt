@@ -185,3 +185,5 @@ depremdestek.xn--node
 depremdestek.ws
 depremdestek.ph
 depremdestek.xn--fiqs8s
+yardim-et.tk
+destekitirazi.ml
