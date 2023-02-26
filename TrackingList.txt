@@ -563,6 +563,8 @@ depremdeistihdam.com|Tracking|-
 kanzlei-kizilay.de|Tracking|-
 depremizolatoru.co|Tracking|-
 depremler.xyz|Tracking|-
+turk-kizilay.com|Tracking|-
+deprem15.cfd|Tracking|-
 depremcantan.com|Tracking|-
 kizilayfoodbeverage.com|Tracking|-
 depremcantalari.com|Tracking|-
@@ -582,3 +584,4 @@ depremehazir.com|Tracking|-
 depremtestibodrum.com|Tracking|-
 kibrisdeprem.net|Tracking|-
 depromo.hu|Tracking|-
+kizilaygidaicecek.com|Tracking|-
