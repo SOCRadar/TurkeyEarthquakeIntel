@@ -187,3 +187,5 @@ depremdestek.xn--node|local-takendown|23.02.2023
 depremdestek.ws|local-takendown|23.02.2023
 depremdestek.ph|local-takendown|23.02.2023
 depremdestek.xn--fiqs8s|local-takendown|23.02.2023
+yardim-et.tk|local-takendown|25.02.2023
+destekitirazi.ml|local-takendown|25.02.2023
