@@ -591,3 +591,6 @@ deprem.so|Tracking|-
 depremkorunmakabini.com|Tracking|-
 depremkorunmaodasi.com|Tracking|-
 depremkoridoru.com|Tracking|-
+deprem.hilbey.com.tr|Tracking|-
+depremizolatorumerkezi.com|Tracking|-
+afadbbtw.cf|Tracking|-
