@@ -602,3 +602,4 @@ depremdestekharitasi.org|Tracking|-
 smtp.deprem-benibul.com|Tracking|-
 depremkulesi.com|Tracking|-
 depremoldu.org|Tracking|-
+depremalarmi.tech|Tracking|-
