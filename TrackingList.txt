@@ -594,6 +594,11 @@ depremkoridoru.com|Tracking|-
 deprem.hilbey.com.tr|Tracking|-
 depremizolatorumerkezi.com|Tracking|-
 afadbbtw.cf|Tracking|-
+deprembilgi.xyz|Tracking|-
+depremzededenal.com|Tracking|-
+afadeg.net|Tracking|-
+afades.net|Tracking|-
+depremdestekharitasi.org|Tracking|-
 smtp.deprem-benibul.com|Tracking|-
 depremkulesi.com|Tracking|-
 depremoldu.org|Tracking|-
