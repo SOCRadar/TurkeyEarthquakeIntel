@@ -602,6 +602,7 @@ depremdestekharitasi.org|Tracking|-
 smtp.deprem-benibul.com|Tracking|-
 depremkulesi.com|Tracking|-
 depremoldu.org|Tracking|-
+depremalarmi.tech|Tracking|-
 afad.life|Tracking|-
 depremhaber.net|Tracking|-
 kizilayes.demo.nuevoyazilim.com|Tracking|-
