@@ -618,3 +618,5 @@ depremeuygunev.com|Tracking|-
 deprem-izalatoru.com|Tracking|-
 onlinedeprem.com|Tracking|-
 depremagi.com|Tracking|-
+sondakikadeprem.com|Tracking|-
+bilgideprem.xyz|Tracking|-
