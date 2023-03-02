@@ -620,3 +620,5 @@ onlinedeprem.com|Tracking|-
 depremagi.com|Tracking|-
 sondakikadeprem.com|Tracking|-
 bilgideprem.xyz|Tracking|-
+depremsigorta.com|Tracking|-
+emsc.deprembilgisistemi.com|Tracking|-
