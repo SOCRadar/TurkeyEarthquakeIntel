@@ -191,3 +191,5 @@ yardim-et.tk|local-takendown|25.02.2023
 destekitirazi.ml|local-takendown|25.02.2023
 depremilegez.net|local-takendown|27.02.2023
 donatecryptoforturkey.online|local-takendown|02.03.2023
+spreaddonate.com|local-takendown|02.03.2023
+turkeydonate.world|local-takendown|02.03.2023
