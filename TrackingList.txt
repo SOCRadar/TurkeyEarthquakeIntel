@@ -639,3 +639,5 @@ deprem.adresimnedir.com|Tracking|-
 izmir.nactigi.com|Tracking|-
 helpturkey.us|Tracking|-
 yardimyerinde.com|Tracking|-
+deprem.cybertkr.com|Tracking|-
+afadma.gq|Tracking|-
