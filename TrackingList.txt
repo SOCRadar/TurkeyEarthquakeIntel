@@ -627,4 +627,5 @@ depremuyarisistemi.com|Tracking|-
 depremhayatkabini.com|Tracking|-
 depremsigorta.com|Tracking|-
 emsc.deprembilgisistemi.com|Tracking|-
-
+izmir.nactigi.com|Tracking|-
+helpturkey.us|Tracking|-
