@@ -638,3 +638,4 @@ depremhazirligi.com|Tracking|-
 deprem.adresimnedir.com|Tracking|-
 izmir.nactigi.com|Tracking|-
 helpturkey.us|Tracking|-
+yardimyerinde.com|Tracking|-
