@@ -639,3 +639,11 @@ deprem.adresimnedir.com|Tracking|-
 izmir.nactigi.com|Tracking|-
 helpturkey.us|Tracking|-
 yardimyerinde.com|Tracking|-
+deprem.shadowone.eu|Tracking|-
+depremkit.com|Tracking|-
+afadp.net|Tracking|-
+contest.afad.org.tr|Tracking|-
+depremiletisim.xyz|Tracking|-
+epremed.org|Tracking|-
+afadmakolyn.cf|Tracking|-
+depremobilyasi.online|Tracking|-
