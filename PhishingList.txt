@@ -71,7 +71,7 @@ enteldeprem.blogspot.com|local-takendown|10.02.2023
 kiziiay.net|takendown|10.02.2023
 afetisbirligi.com|local-takendown|10.02.2023
 depremokulbursu.com|in-progress|11.02.2023
-konyadepremyardim.com|in-progress|11.02.2023
+konyadepremyardim.com|takendown|11.02.2023
 ulusyardimvakfi.com|local-takendown|11.02.2023
 yardimhatti.net|takendown|11.02.2023
 afad.top|local-takendown|10.02.2023
@@ -148,7 +148,7 @@ yardim-destekleri.net|local-takendown|15.02.2023
 deprem.42web.io|takendown|15.02.2023
 earthquaketurkey.world|takendown|15.02.2023
 babalayardim.com|takendown|15.02.2023
-kizilay.fr|in-progress|16.02.2023
+kizilay.fr|takendown|16.02.2023
 afadyardim.net|local-takendown|16.02.2023
 destekdeprem.xn--node|local-takendown|16.02.2023
 turkeystrong.org|takendown|16.02.2023
