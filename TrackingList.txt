@@ -670,4 +670,9 @@ service.depremdestek.net|Tracking|-
 deprem.ebusoft.com.tr|Tracking|-
 api.depremneredeoldu.com|Tracking|-
 depremolcummerkezi.org|Tracking|-
-daskzorunludeprem.net|Tracking|-
+depremler.co|Tracking|-
+kizilaymt2.com|Tracking|-
+deprem-cantasi.com|Tracking|-
+depremyasamodasi.net|Tracking|-
+depremyasamodasi.xyz|Tracking|-
+sondepremler.site|Tracking|-
