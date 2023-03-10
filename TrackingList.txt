@@ -683,3 +683,4 @@ depremolcummerkezi.online|Tracking|-
 depremolacakiller.ac|Tracking|-
 depremkabinifiyati.com|Tracking|-
 kikilay.com|Tracking|-
+depremsergisi.com|Tracking|-
