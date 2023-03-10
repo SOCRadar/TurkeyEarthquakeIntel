@@ -689,3 +689,4 @@ depremdukkani.online|Tracking|-
 depremmarketi.online|Tracking|-
 depremdukkani.com|Tracking|-
 depremolcummerkezi.info|Tracking|-
+depremsergisi.com|Tracking|-
