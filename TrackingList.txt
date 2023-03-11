@@ -690,3 +690,9 @@ depremmarketi.online|Tracking|-
 depremdukkani.com|Tracking|-
 depremolcummerkezi.info|Tracking|-
 depremsergisi.com|Tracking|-
+acil.afadportal.com|Tracking|-
+depremolcumevi.com|Tracking|-
+depremolcumservisi.com|Tracking|-
+depremolcummerkez.com|Tracking|-
+depremolcumerkezi.com|Tracking|-
+depremolcumcenter.com|Tracking|-
