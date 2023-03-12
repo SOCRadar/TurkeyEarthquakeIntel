@@ -690,3 +690,5 @@ depremmarketi.online|Tracking|-
 depremdukkani.com|Tracking|-
 depremolcummerkezi.info|Tracking|-
 depremsergisi.com|Tracking|-
+barinma.sondepremler.net|Tracking|-
+depremlog.com|Tracking|-
