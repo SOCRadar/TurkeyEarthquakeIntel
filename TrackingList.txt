@@ -690,6 +690,9 @@ depremmarketi.online|Tracking|-
 depremdukkani.com|Tracking|-
 depremolcummerkezi.info|Tracking|-
 depremsergisi.com|Tracking|-
+depremzedeler.net|Tracking|-
+depremafetcantasi.com|Tracking|-
+sondakikadepremler.com|Tracking|-
 sub2.turkey-earthquake.co|Tracking|-
 sub.turkey-earthquake.co|Tracking|-
 acil.afadportal.com|Tracking|-
