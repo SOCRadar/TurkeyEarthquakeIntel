@@ -724,3 +724,7 @@ depremedayan.istanbul|Tracking|-
 depremveotesi.com|Tracking|-
 saglamevim.site|Tracking|-
 afetdepremcantasi.com|Tracking|-
+depremkunyesi.net|Tracking|-
+kizilay.hu|Tracking|-
+afad.in|Tracking|-
+depremdeengelliler.org|Tracking|-
