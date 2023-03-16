@@ -723,3 +723,6 @@ kizila.blogspot.com|Tracking|-
 depremedayan.istanbul|Tracking|-
 depremveotesi.com|Tracking|-
 saglamevim.site|Tracking|-
+yapidepremtesti.com|Tracking|-
+yapidepremtesti.net|Tracking|-
+depremduvari.com|Tracking|-
