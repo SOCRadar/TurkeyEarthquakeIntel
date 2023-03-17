@@ -731,5 +731,7 @@ depremkunyesi.net|Tracking|-
 kizilay.hu|Tracking|-
 afad.in|Tracking|-
 depremdeengelliler.org|Tracking|-
+deprembazalari.com|Tracking|-
+depremler.link|Tracking|-
 deprem.online|Tracking|-
 ahhbapp.org|Tracking|-
