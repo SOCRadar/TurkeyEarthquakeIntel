@@ -744,3 +744,4 @@ depremhukuku.site|Tracking|-
 depremhukuku.link|Tracking|-
 depremihtiyaclistesi.com|Tracking|-
 bulut.sondepremler.net|Tracking|-
+depremtazminati.com|Tracking|-
