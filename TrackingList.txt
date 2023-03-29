@@ -754,4 +754,5 @@ depremler.net|Tracking|-
 daskzorunludeprem.net|Tracking|-
 deprembagisi.com|Tracking|-
 depremsavar.com|Tracking|-
+mobileapp.ykizilay.og.dev|Tracking|-
 depremiunutma.site|Tracking|-
