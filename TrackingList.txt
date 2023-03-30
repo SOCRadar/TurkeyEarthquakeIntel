@@ -49,7 +49,6 @@ depremkabini.net|Tracking|94.199.200.241
 depremyardimsiteleri.com|Tracking|94.199.206.51		
 depremlojistik.com|Tracking|-		
 deprem.live|Tracking|-		
-bagisahbap.org|Tracking|-		
 afetlist.xyz|Tracking|85.159.66.93		
 afetbildirim.xyz|Tracking|-		
 afetkayip.com|Tracking|-		
@@ -492,8 +491,6 @@ xafad.com|Tracking|-
 depremjurnal.com|Tracking|-		
 depremolsa.cf|Tracking|-		
 triadakizilay.com|Tracking|-		
-kanzlei-kizilay.de|Tracking|-		
-depremizolatoru.co|Tracking|-		
 kizila.info|Tracking|-		
 xn--depremzedei-1gc.com|Tracking|-		
 autodiscover.afadxb.com|Tracking|-		
@@ -572,7 +569,6 @@ depremcantasiolustur.com|Tracking|-
 depremsepetim.com|Tracking|-
 depremistihdam.com|Tracking|-
 kizilayhealthcareintl.com|Tracking|-
-kizilaygidaicecek.com|Tracking|-
 depremyasamodasi.com|Tracking|-
 depermo.tk|Tracking|-
 binadepremanaliz.com|Tracking|-
@@ -612,7 +608,6 @@ depremalarmi.tech|Tracking|-
 afad.life|Tracking|-
 depremhaber.net|Tracking|-
 kizilayes.demo.nuevoyazilim.com|Tracking|-
-depremoldu.org|Tracking|-
 afad.ajitoscience.com|Tracking|-
 depremeuygunev.com|Tracking|-
 deprem-izalatoru.com|Tracking|-
@@ -638,7 +633,6 @@ depremhazirligi.com|Tracking|-
 deprem.adresimnedir.com|Tracking|-
 izmir.nactigi.com|Tracking|-
 helpturkey.us|Tracking|-
-yardimyerinde.com|Tracking|-
 deprem.shadowone.eu|Tracking|-
 depremkit.com|Tracking|-
 afadp.net|Tracking|-
@@ -703,7 +697,6 @@ depremolcumerkezi.com|Tracking|-
 depremolcumcenter.com|Tracking|-
 barinma.sondepremler.net|Tracking|-
 depremlog.com|Tracking|-
-depremkontrol.site|Tracking|-
 deprem.geak.org.tr|Tracking|-
 depremmagdurlari.com|Tracking|-
 depremsismikizolator.com|Tracking|-
@@ -751,7 +744,6 @@ depremsigortasi.net|Tracking|-
 depremagsche.tk|Tracking|-
 depremcantasi.store|Tracking|-
 depremler.net|Tracking|-
-daskzorunludeprem.net|Tracking|-
 deprembagisi.com|Tracking|-
 depremsavar.com|Tracking|-
 mobileapp.ykizilay.og.dev|Tracking|-
