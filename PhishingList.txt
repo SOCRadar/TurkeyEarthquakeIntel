@@ -192,3 +192,4 @@ donatecryptoforturkey.online|local-takendown|02.03.2023
 spreaddonate.com|local-takendown|02.03.2023
 turkeydonate.world|local-takendown|02.03.2023
 daskzorunludeprem.net|local-takendown|07.03.2023
+depremkontrol.site|local-takendown|22.03.2023
